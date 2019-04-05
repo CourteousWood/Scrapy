@@ -22,7 +22,7 @@
 
 ## 2, Navicat for MySql的表结构设计图：
 
-  ![mysql结构设计图](images/sqlStruct.png)
+  ![mysql结构设计图](Lagou/images/sqlStruct.png)
 
 ##3，程序运行流程。
 ###3.1 修改 Lagou/Lagou/spiders中，方法start_requests 中
@@ -40,4 +40,4 @@
 ## 4，从lagou网上跑去的数据内容。
    点击运行获取我们设计好的结构进行爬取。
 
-   ![mysql爬取数据后的内容](images/sqlStore.png)
+   ![mysql爬取数据后的内容](Lagou/images/sqlStore.png)
