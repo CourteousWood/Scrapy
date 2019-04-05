@@ -41,3 +41,7 @@
    点击运行获取我们设计好的结构进行爬取。
 
    ![mysql爬取数据后的内容](Lagou/images/sqlStore.png)
+   
+## 5, 借鉴别人
+     1，[FunpySpiderSearchEngine](https://github.com/mtianyan/FunpySpiderSearchEngine) 这个课程已经很多都不能跑通了，这是个学习不错的平台。
+     2，借鉴了另一位大神的 sesssion书写，以及 chromedriver.exe调用代码，但因为 这是很久之前的代码，所以 他的 原始地址忘记了，说声抱歉。
